@@ -3,7 +3,7 @@ import { Avatar, Heading, VStack } from "@chakra-ui/react";
 import FullScreenSection from "./FullScreenSection";
 import profile from '../images/profile.jpg'
 
-const greeting = "Hello, I am Sathurjan (BSc.Eng(Hons))";
+const greeting = "Hello, I am Sathurjan [BSc.Eng(Hons)]";
 const degree = "BSc. Eng (Hons) in Computer Engineering";
 const bio1 = "An Engineering Undegraduate";
 const bio2 = "Specialised in Computer Engineering";
